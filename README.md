@@ -4,7 +4,8 @@
 
 <h1 align="center">Clippy Bot</h1>
 
-<p>Take a look at it here 👉 Live link coming soon.</p>
+<p>Take a look at it here 👉 https://clippy-bot.vercel.app/</p>
+<p>This is using OpenAI's free chatGPT 3.5 turbo API. It does have limitations and will expire by 10/14/23.</p>
 
 <h2 align="center">Tech Used</h2> 
 <p align="center"> React, Javascript</p>
